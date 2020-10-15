@@ -13,11 +13,10 @@ Each member of the group has their own "Sandbox" folder to try out things.
 
 ## Weekly meetings:
 
-Each week there will be a meeting, after the meeting a doodle will open for next week's meeting.
+Each week there will be a meeting. Meeting schedules will be discussed on a per weekly basis but a good time for everyone is 7.30pm on Thursdays
 
-Doodle for EDA meeting: _MISSING_
-
-Meeting         | Day      | Time
----             |---       |---
-Kick-off        |12 Oct    |18h
-EDA / Graphs    |?    |?
+Meeting               | Day       | Time
+---                   |---        |---
+Kick-off              |12 Oct     |18h
+EDA / Graphs Intro    |16 Oct     |19.30h
+EDA Results           |?          |?
