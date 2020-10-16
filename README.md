@@ -18,5 +18,5 @@ Each week there will be a meeting. Meeting schedules will be discussed on a per 
 Meeting               | Day       | Time
 ---                   |---        |---
 Kick-off              |12 Oct     |18h
-EDA / Graphs Intro    |16 Oct     |19.30h
+EDA / Graphs Intro    |15 Oct     |19.30h
 EDA Results           |?          |?
