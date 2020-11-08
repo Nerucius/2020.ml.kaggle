@@ -130,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Don't upload the models created by AutoGluon
+trained_models/
